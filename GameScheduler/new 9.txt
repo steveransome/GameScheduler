@@ -1,0 +1,907 @@
+Model name:  'TestSteve' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:      344 constraints,   15795 variables,        47385 non-zeros.
+Var-types:     15795 integer,           0 semi-cont.,       15795 SOS.
+Sets:                                   0 GUB,                792 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+Relaxed solution                9068 after     105299 iter is B&B base.
+
+Feasible solution               7116 after     106145 iter,     14269 nodes (gap 21.5%)
+Improved solution               7237 after     106161 iter,     14283 nodes (gap 20.2%)
+Improved solution               7318 after     106224 iter,     14325 nodes (gap 19.3%)
+Improved solution               7348 after     106241 iter,     14336 nodes (gap 19.0%)
+Improved solution               7358 after     106294 iter,     14365 nodes (gap 18.9%)
+Improved solution               7459 after     106305 iter,     14374 nodes (gap 17.7%)
+Improved solution               7469 after     106321 iter,     14385 nodes (gap 17.6%)
+Improved solution               7479 after     106561 iter,     14514 nodes (gap 17.5%)
+Improved solution               7530 after     106661 iter,     14570 nodes (gap 17.0%)
+Improved solution               7590 after     106691 iter,     14588 nodes (gap 16.3%)
+Improved solution               7701 after     106725 iter,     14607 nodes (gap 15.1%)
+Improved solution               7822 after     106865 iter,     14693 nodes (gap 13.7%)
+Improved solution               7913 after     107183 iter,     14865 nodes (gap 12.7%)
+Improved solution               7943 after     107256 iter,     14907 nodes (gap 12.4%)
+Improved solution               8054 after     107433 iter,     15001 nodes (gap 11.2%)
+Improved solution               8064 after     144608 iter,     31291 nodes (gap 11.1%)
+Improved solution               8135 after     169058 iter,     41058 nodes (gap 10.3%)
+Improved solution               8165 after     169243 iter,     41150 nodes (gap 10.0%)
+Improved solution               8175 after    1203637 iter,    459489 nodes (gap 9.8%)
+Improved solution               8216 after    1915426 iter,    759753 nodes (gap 9.4%)
+Improved solution               8246 after    1915604 iter,    759846 nodes (gap 9.1%)
+
+
+
+Model name:  'TestSteve' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:     1034 constraints,   15795 variables,       108945 non-zeros.
+Var-types:     15795 integer,           0 semi-cont.,       15795 SOS.
+Sets:                                   0 GUB,                792 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+Relaxed solution                9068 after     175460 iter is B&B base.
+
+Feasible solution               6774 after     176623 iter,     14237 nodes (gap 25.3%)
+Improved solution               6895 after     178054 iter,     15326 nodes (gap 24.0%)
+Improved solution               6905 after     178217 iter,     15440 nodes (gap 23.9%)
+Improved solution               7016 after     178246 iter,     15475 nodes (gap 22.6%)
+Improved solution               7036 after     178456 iter,     15570 nodes (gap 22.4%)
+Improved solution               7056 after     178465 iter,     15578 nodes (gap 22.2%)
+Improved solution               7167 after     178482 iter,     15590 nodes (gap 21.0%)
+Improved solution               7278 after     179053 iter,     15994 nodes (gap 19.7%)
+Improved solution               7288 after     180184 iter,     16520 nodes (gap 19.6%)
+Improved solution               7329 after     189999 iter,     21722 nodes (gap 19.2%)
+Improved solution               7359 after     190041 iter,     21744 nodes (gap 18.8%)
+Improved solution               7369 after     190189 iter,     21831 nodes (gap 18.7%)
+Improved solution               7409 after     194741 iter,     24099 nodes (gap 18.3%)
+Improved solution               7439 after     196269 iter,     24792 nodes (gap 18.0%)
+Improved solution               7450 after     201966 iter,     27615 nodes (gap 17.8%)
+Improved solution               7480 after     202007 iter,     27634 nodes (gap 17.5%)
+Improved solution               7510 after     202294 iter,     27821 nodes (gap 17.2%)
+Improved solution               7520 after     209831 iter,     31723 nodes (gap 17.1%)
+Improved solution               7550 after     293345 iter,     68334 nodes (gap 16.7%)
+Improved solution               7561 after     331388 iter,     85060 nodes (gap 16.6%)
+Improved solution               7591 after     331400 iter,     85067 nodes (gap 16.3%)
+Improved solution               7621 after     331520 iter,     85164 nodes (gap 16.0%)
+Improved solution               7631 after     333712 iter,     86344 nodes (gap 15.8%)
+Improved solution               7641 after     365265 iter,    100472 nodes (gap 15.7%)
+Improved solution               7661 after     366102 iter,    100864 nodes (gap 15.5%)
+Improved solution               7671 after     366171 iter,    100902 nodes (gap 15.4%)
+Improved solution               7742 after     384139 iter,    108406 nodes (gap 14.6%)
+Improved solution               7752 after     384190 iter,    108434 nodes (gap 14.5%)
+Improved solution               7762 after     454782 iter,    135832 nodes (gap 14.4%)
+Improved solution               7772 after     581858 iter,    186750 nodes (gap 14.3%)
+Improved solution               7782 after     581889 iter,    186766 nodes (gap 14.2%)
+Improved solution               7792 after     881284 iter,    304016 nodes (gap 14.1%)
+Improved solution               7802 after    2963541 iter,   1114205 nodes (gap 14.0%)
+
+lp_solve optimization was stopped due to time-out.
+
+Optimal solution                7802 after    3045945 iter,   1145521 nodes (gap 14.0%).
+
+Relative numeric accuracy ||*|| = 0
+
+ MEMO: lp_solve version 5.5.2.5 for 64 bit OS, with 64 bit REAL variables.
+      In the total iteration count 3045945, 196273 (6.4%) were bound flips.
+      There were 568273 refactorizations, 0 triggered by time and 324 by density.
+       ... on average 5.0 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 3144 NZ entries, 1.1x largest basis.
+      The maximum B&B level was 14221, 0.4x MIP order, 14203 at the optimal solution.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 26.082 seconds, presolve used 0.031 seconds,
+       ... 599.992 seconds in simplex solver, in total 626.105 seconds.
+	   
+	   
+	   
+	   
+Model name:  'TestSteve' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:      584 constraints,   15795 variables,        78975 non-zeros.
+Var-types:     15795 integer,           0 semi-cont.,       15795 SOS.
+Sets:                                   0 GUB,                792 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+Relaxed solution                9068 after    5789843 iter is B&B base.
+
+Feasible solution               7046 after    5790726 iter,     14204 nodes (gap 22.3%)
+Improved solution               7157 after    5790731 iter,     14211 nodes (gap 21.1%)
+Improved solution               7268 after    5790746 iter,     14223 nodes (gap 19.8%)
+Improved solution               7278 after    5790754 iter,     14232 nodes (gap 19.7%)
+Improved solution               7359 after    5790784 iter,     14257 nodes (gap 18.8%)
+Improved solution               7399 after    5790952 iter,     14375 nodes (gap 18.4%)
+Improved solution               7510 after    5791016 iter,     14424 nodes (gap 17.2%)
+Improved solution               7611 after    5791515 iter,     14764 nodes (gap 16.1%)
+Improved solution               7722 after    5791593 iter,     14821 nodes (gap 14.8%)
+Improved solution               7843 after    5792540 iter,     15396 nodes (gap 13.5%)
+Improved solution               7984 after    5792939 iter,     15618 nodes (gap 12.0%)
+Improved solution               8105 after    5793507 iter,     15988 nodes (gap 10.6%)
+Improved solution               8115 after    5815867 iter,     28873 nodes (gap 10.5%)
+
+lp_solve optimization was stopped due to time-out.
+
+Optimal solution                8115 after    5846307 iter,     45391 nodes (gap 10.5%).
+
+Relative numeric accuracy ||*|| = 0
+
+ MEMO: lp_solve version 5.5.2.5 for 64 bit OS, with 64 bit REAL variables.
+      In the total iteration count 5846307, 4484314 (76.7%) were bound flips.
+      There were 27685 refactorizations, 0 triggered by time and 11967 by density.
+       ... on average 49.2 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 2122 NZ entries, 1.2x largest basis.
+      The maximum B&B level was 14190, 0.4x MIP order, 14176 at the optimal solution.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 26.817 seconds, presolve used 0.015 seconds,
+       ... 600.000 seconds in simplex solver, in total 626.832 seconds.
+	   
+	   
+---------------------------------------------------------------------------------------------------------------------------------	   
+- 2 constraints 1 sos
+Model name:  '24w1gv1.1' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:      344 constraints,   15795 variables,        47385 non-zeros.
+Var-types:     15795 integer,           0 semi-cont.,       15795 SOS.
+Sets:                                   0 GUB,                792 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+Relaxed solution                8992 after     853078 iter is B&B base.
+
+Feasible solution               8417 after     853188 iter,     13160 nodes (gap 6.4%)
+Improved solution               8528 after     853192 iter,     13162 nodes (gap 5.2%)
+Improved solution               8538 after     853193 iter,     13163 nodes (gap 5.0%)
+
+lp_solve optimization was stopped due to time-out.
+
+Optimal solution                8538 after    4863003 iter,   1146179 nodes (gap 5.0%).
+
+Relative numeric accuracy ||*|| = 1.11022e-016
+
+ MEMO: lp_solve version 5.5.2.5 for 64 bit OS, with 64 bit REAL variables.
+      In the total iteration count 4863003, 754595 (15.5%) were bound flips.
+      There were 567435 refactorizations, 0 triggered by time and 1802 by density.
+       ... on average 7.2 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 1234 NZ entries, 1.2x largest basis.
+      The maximum B&B level was 14934, 0.5x MIP order, 13162 at the optimal solution.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 11.927 seconds, presolve used 0.012 seconds,
+       ... 600.004 seconds in simplex solver, in total 611.943 seconds.
+__________________________________________________________________________________________________________________________________________
+3 constraints, 0 sos
+Model name:  '24w1gV1.11_3Constraint' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:     1136 constraints,   15795 variables,        63180 non-zeros.
+Sets:                                   0 GUB,                  0 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+lp_solve optimization was stopped due to time-out.
+lp_solve unsuccessful after 5667622 iter and a last best value of -1e+030
+
+ MEMO: lp_solve version 5.5.2.5 for 64 bit OS, with 64 bit REAL variables.
+      In the total iteration count 5667622, 4181583 (73.8%) were bound flips.
+      There were 8939 refactorizations, 0 triggered by time and 8466 by density.
+       ... on average 166.2 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 2548 NZ entries, 1.1x largest basis.
+      The maximum B&B level was 1, 0.0x MIP order, with 0 nodes explored.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 6.984 seconds, presolve used 0.010 seconds,
+       ... 599.991 seconds in simplex solver, in total 606.985 seconds.
+	   __________________________________________________________________________________________________________________________________________
+	   
+v1.12
+4 constraints
+
+Model name:  '24w1gV1.12_4Constraint' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:     1376 constraints,   15795 variables,        94770 non-zeros.
+Sets:                                   0 GUB,                  0 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+lp_solve optimization was stopped due to time-out.
+lp_solve unsuccessful after 4888542 iter and a last best value of -1e+030
+
+ MEMO: lp_solve version 5.5.2.5 for 64 bit OS, with 64 bit REAL variables.
+      In the total iteration count 4888542, 3828589 (78.3%) were bound flips.
+      There were 7473 refactorizations, 0 triggered by time and 7450 by density.
+       ... on average 141.8 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 3814 NZ entries, 1.1x largest basis.
+      The maximum B&B level was 1, 0.0x MIP order, with 0 nodes explored.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 9.554 seconds, presolve used 0.013 seconds,
+       ... 599.988 seconds in simplex solver, in total 609.555 seconds.
+	   
+__________________________________________________________________________________________________________________________________________
+
+Model name:  '24w1gV1.13_4Constraint' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:     1004 constraints,   15795 variables,       137295 non-zeros.
+Var-types:     15795 integer,           0 semi-cont.,       15795 SOS.
+Sets:                                   0 GUB,                792 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+lp_solve optimization was stopped due to time-out.
+lp_solve unsuccessful after 5339277 iter and a last best value of -1e+030
+
+ MEMO: lp_solve version 5.5.2.5 for 64 bit OS, with 64 bit REAL variables.
+      In the total iteration count 5339277, 4462976 (83.6%) were bound flips.
+      There were 7461 refactorizations, 0 triggered by time and 7457 by density.
+       ... on average 117.5 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 4127 NZ entries, 1.2x largest basis.
+      The maximum B&B level was 1, 0.0x MIP order, with 0 nodes explored.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 13.479 seconds, presolve used 0.019 seconds,
+       ... 599.982 seconds in simplex solver, in total 613.480 seconds.
+	   
+__________________________________________________________________________________________________________________________________________
+30 mins
+
+Model name:  '24w1gV1.13_4Constraint' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:     1652 constraints,   15795 variables,       121500 non-zeros.
+Var-types:     15795 integer,           0 semi-cont.,       15795 SOS.
+Sets:                                   0 GUB,                144 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+Relaxed solution               14240 after      18865 iter is B&B base.
+
+Feasible solution               5807 after      21549 iter,      2771 nodes (gap 59.2%)
+Improved solution               5908 after      22173 iter,      3200 nodes (gap 58.5%)
+Improved solution               5918 after      23418 iter,      4505 nodes (gap 58.4%)
+
+lp_solve optimization was stopped due to time-out.
+
+Optimal solution                5918 after     320101 iter,    260361 nodes (gap 58.4%).
+
+Relative numeric accuracy ||*|| = 5.55112e-017
+
+ MEMO: lp_solve version 5.5.2.5 for 64 bit OS, with 64 bit REAL variables.
+      In the total iteration count 320101, 18209 (5.7%) were bound flips.
+      There were 128812 refactorizations, 0 triggered by time and 10 by density.
+       ... on average 2.3 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 4540 NZ entries, 1.0x largest basis.
+      The maximum B&B level was 2853, 0.1x MIP order, 2755 at the optimal solution.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 13.562 seconds, presolve used 0.020 seconds,
+       ... 599.989 seconds in simplex solver, in total 613.571 seconds.
+__________________________________________________________________________________________________________________________________________
+
+Model name:  '24w1gV1.14_4Constraint' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:     1202 constraints,   15795 variables,        60750 non-zeros.
+Var-types:     15795 integer,           0 semi-cont.,       15795 SOS.
+Sets:                                   0 GUB,                144 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+Relaxed solution               16380 after      19326 iter is B&B base.
+
+Feasible solution               8016 after      19878 iter,      3944 nodes (gap 51.1%)
+Improved solution               8026 after      20664 iter,      5486 nodes (gap 51.0%)
+
+lp_solve optimization was stopped due to time-out.
+
+Optimal solution                8026 after    1303018 iter,    749891 nodes (gap 51.0%).
+
+Relative numeric accuracy ||*|| = 5.55112e-017
+
+ MEMO: lp_solve version 5.5.2.5 for 64 bit OS, with 64 bit REAL variables.
+      In the total iteration count 1303018, 18642 (1.4%) were bound flips.
+      There were 373017 refactorizations, 0 triggered by time and 0 by density.
+       ... on average 3.4 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 2155 NZ entries, 1.0x largest basis.
+      The maximum B&B level was 3966, 0.1x MIP order, 3965 at the optimal solution.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 8.961 seconds, presolve used 0.014 seconds,
+       ... 1799.995 seconds in simplex solver, in total 1808.970 seconds.
+
+
+____________________________________________________________________________________________________________________________________________
+
+
+introduce set_binary(lp, 1, TRUE);
+and 
+set_epsint(lp, 1.0e-3);
+ 
+Model name:  '24w1gV1.15_4Constraint' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:     1202 constraints,   15795 variables,        60750 non-zeros.
+Var-types:     15795 integer,           0 semi-cont.,       15795 SOS.
+Sets:                                   0 GUB,                144 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+Relaxed solution               16380 after      19326 iter is B&B base.
+
+Feasible solution               8016 after      19878 iter,      3944 nodes (gap 51.1%)
+Improved solution               8026 after      20664 iter,      5486 nodes (gap 51.0%)
+
+lp_solve optimization was stopped due to time-out.
+
+Optimal solution                8026 after    1277711 iter,    736309 nodes (gap 51.0%).
+
+Relative numeric accuracy ||*|| = 5.55112e-017
+
+ MEMO: lp_solve version 5.5.2.5 for 64 bit OS, with 64 bit REAL variables.
+      In the total iteration count 1277711, 18642 (1.5%) were bound flips.
+      There were 366235 refactorizations, 0 triggered by time and 0 by density.
+       ... on average 3.4 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 2155 NZ entries, 1.0x largest basis.
+      The maximum B&B level was 3966, 0.1x MIP order, 3965 at the optimal solution.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 8.912 seconds, presolve used 0.016 seconds,
+       ... 1799.993 seconds in simplex solver, in total 1808.921 seconds.
+__________________________________________________________________________________________________________________________________________
+
+reduce variables by adding starttime limitations
+
+Model name:  '24w1gV1.16_4Constraint' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:      870 constraints,    7254 variables,        27900 non-zeros.
+Var-types:      7254 integer,           0 semi-cont.,        7254 SOS.
+Sets:                                   0 GUB,                144 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+Relaxed solution               15262 after       8780 iter is B&B base.
+
+Feasible solution               8117 after       9275 iter,      1489 nodes (gap 46.8%)
+
+lp_solve optimization was stopped due to time-out.
+
+Optimal solution                8117 after     664382 iter,    809351 nodes (gap 46.8%).
+
+Relative numeric accuracy ||*|| = 5.55112e-017
+
+ MEMO: lp_solve version 5.5.2.5 for 64 bit OS, with 64 bit REAL variables.
+      In the total iteration count 664382, 8262 (1.2%) were bound flips.
+      There were 403932 refactorizations, 0 triggered by time and 1 by density.
+       ... on average 1.6 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 1675 NZ entries, 1.0x largest basis.
+      The maximum B&B level was 1548, 0.1x MIP order, 1490 at the optimal solution.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 3.794 seconds, presolve used 0.008 seconds,
+       ... 599.995 seconds in simplex solver, in total 603.797 seconds.
+__________________________________________________________________________________________________________________________________________
+
+overnight
+Model name:  '24w1gV1.17_4Constraint' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:      968 constraints,    7956 variables,        38556 non-zeros.
+Var-types:      7956 integer,           0 semi-cont.,        7956 SOS.
+Sets:                                   0 GUB,                144 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+Relaxed solution                7060 after       8328 iter is B&B base.
+
+lp_solve unsuccessful after 106359323 iter and a last best value of -1e+030
+lp_solve explored 25500274 nodes before termination
+
+ MEMO: lp_solve version 5.5.2.5 for 64 bit OS, with 64 bit REAL variables.
+      In the total iteration count 106359323, 13069737 (12.3%) were bound flips.
+      There were 13695343 refactorizations, 0 triggered by time and 0 by density.
+       ... on average 6.8 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 1422 NZ entries, 1.0x largest basis.
+      The maximum B&B level was 2893, 0.2x MIP order, with 25500274 nodes explored.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 4.451 seconds, presolve used 0.020 seconds,
+       ... 29999.985 seconds in simplex solver, in total 30004.456 seconds.
+
+__________________________________________________________________________________________________________________________________________
+1.18
+feasible
+60%
+8 better solutions
+
+__________________________________________________________________________________________________________________________________________
+1.19
+Fixed C3
+
+Model name:  '24w1gV1.19_4Constraint' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:      648 constraints,    9360 variables,        18720 non-zeros.
+Var-types:      9360 integer,           0 semi-cont.,        9360 SOS.
+Sets:                                   0 GUB,                144 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+Relaxed solution               14120 after       9870 iter is B&B base.
+
+Feasible solution               7553 after      10758 iter,      2584 nodes (gap 46.5%)
+Improved solution               7563 after      17496 iter,     16020 nodes (gap 46.4%)
+Improved solution               7674 after      24325 iter,     29483 nodes (gap 45.6%)
+Improved solution               7684 after      31149 iter,     43052 nodes (gap 45.6%)
+Improved solution               7694 after      38159 iter,     56728 nodes (gap 45.5%)
+
+lp_solve optimization was stopped due to time-out.
+
+Optimal solution                7694 after    1097262 iter,    509614 nodes (gap 45.5%).
+
+Relative numeric accuracy ||*|| = 1.11022e-016
+
+ MEMO: lp_solve version 5.5.2.5 for 64 bit OS, with 64 bit REAL variables.
+      In the total iteration count 1097262, 9540 (0.9%) were bound flips.
+      There were 253553 refactorizations, 0 triggered by time and 0 by density.
+       ... on average 4.3 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 1073 NZ entries, 1.0x largest basis.
+      The maximum B&B level was 2609, 0.1x MIP order, 2606 at the optimal solution.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 4.369 seconds, presolve used 0.011 seconds,
+       ... 599.996 seconds in simplex solver, in total 604.376 seconds.
+__________________________________________________________________________________________________________________________________________
+changed c5 to be <=2 rather than =2
+
+Model name:  '24w1gV1.19_4Constraint' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:      678 constraints,    9360 variables,        28080 non-zeros.
+Var-types:      9360 integer,           0 semi-cont.,        9360 SOS.
+Sets:                                   0 GUB,                144 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+Relaxed solution                7060 after       9833 iter is B&B base.
+
+Feasible solution               6344 after      10453 iter,      4417 nodes (gap 10.1%)
+
+
+__________________________________________________________________________________________________________________________________________
+
+
+Model name:  '24w1gV1.20_5Constraint' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:      888 constraints,    9360 variables,        45360 non-zeros.
+Var-types:      9360 integer,           0 semi-cont.,        9360 SOS.
+Sets:                                   0 GUB,                144 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+Relaxed solution                7060 after      10187 iter is B&B base.
+
+Feasible solution               6576 after      10541 iter,      4232 nodes (gap 6.9%)
+Improved solution               6586 after      11200 iter,      5523 nodes (gap 6.7%)
+Improved solution               6697 after      12323 iter,      7235 nodes (gap 5.1%)
+Improved solution               6747 after      34278 iter,     47606 nodes (gap 4.4%)
+Improved solution               6848 after      34857 iter,     48755 nodes (gap 3.0%)
+
+lp_solve optimization was stopped due to time-out.
+
+Optimal solution                6848 after     372718 iter,    724414 nodes (gap 3.0%).
+
+Relative numeric accuracy ||*|| = 1.11022e-016
+
+ MEMO: lp_solve version 5.5.2.5 for 64 bit OS, with 64 bit REAL variables.
+      In the total iteration count 372718, 10069 (2.7%) were bound flips.
+      There were 360156 refactorizations, 0 triggered by time and 0 by density.
+       ... on average 1.0 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 1343 NZ entries, 1.0x largest basis.
+      The maximum B&B level was 4241, 0.2x MIP order, 4184 at the optimal solution.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 5.624 seconds, presolve used 0.012 seconds,
+       ... 599.997 seconds in simplex solver, in total 605.633 seconds.
+__________________________________________________________________________________________________________________________________________
+
+Model name:  '24w1gV1.21_5Constraint' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:      888 constraints,    7956 variables,        38556 non-zeros.
+Var-types:      7956 integer,           0 semi-cont.,        7956 SOS.
+Sets:                                   0 GUB,                144 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+Relaxed solution                7060 after       8342 iter is B&B base.
+
+Feasible solution               6475 after       8693 iter,      3648 nodes (gap 8.3%)
+Improved solution               6576 after      14318 iter,      8019 nodes (gap 6.9%)
+Improved solution               6586 after      43904 iter,     63472 nodes (gap 6.7%)
+Improved solution               6616 after      72229 iter,    117138 nodes (gap 6.3%)
+Improved solution               6626 after     107975 iter,    175801 nodes (gap 6.1%)
+Improved solution               6697 after     305943 iter,    417840 nodes (gap 5.1%)
+Improved solution               6737 after     329494 iter,    462197 nodes (gap 4.6%)
+
+lp_solve optimization was stopped due to time-out.
+
+Optimal solution                6737 after    1413587 iter,   1010313 nodes (gap 4.6%).
+
+Relative numeric accuracy ||*|| = 5.55112e-017
+
+ MEMO: lp_solve version 5.5.2.5 for 64 bit OS, with 64 bit REAL variables.
+      In the total iteration count 1413587, 119005 (8.4%) were bound flips.
+      There were 503659 refactorizations, 0 triggered by time and 1 by density.
+       ... on average 2.6 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 1374 NZ entries, 1.0x largest basis.
+      The maximum B&B level was 3813, 0.2x MIP order, 3596 at the optimal solution.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 4.716 seconds, presolve used 0.010 seconds,
+       ... 599.996 seconds in simplex solver, in total 604.722 seconds.
+
+______________________________________________________________________________________________________________________________________________	   
+reduced int tol to 1x10^-2
+
+Model name:  '24w1gV1.21_5Constraint' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:      888 constraints,    7956 variables,        38556 non-zeros.
+Var-types:      7956 integer,           0 semi-cont.,        7956 SOS.
+Sets:                                   0 GUB,                144 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+Relaxed solution                7060 after       8342 iter is B&B base.
+
+Feasible solution               6475 after       8693 iter,      3648 nodes (gap 8.3%)
+Improved solution               6576 after      14318 iter,      8019 nodes (gap 6.9%)
+Improved solution               6586 after      43904 iter,     63472 nodes (gap 6.7%)
+Improved solution               6616 after      72229 iter,    117138 nodes (gap 6.3%)
+Improved solution               6626 after     107975 iter,    175801 nodes (gap 6.1%)
+
+______________________________________________________________________________________________________________________________________________
+not much better.  Still not allocating some games in 30 mins
+
+Model name:  '24w1gV1.22_5Constraint' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:      888 constraints,    7956 variables,        38556 non-zeros.
+Var-types:      7956 integer,           0 semi-cont.,        7956 SOS.
+Sets:                                   0 GUB,                144 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+Relaxed solution                7060 after       8342 iter is B&B base.
+
+Feasible solution               6475 after       8693 iter,      3648 nodes (gap 8.3%)
+Improved solution               6576 after      14318 iter,      8019 nodes (gap 6.9%)
+Improved solution               6586 after      43904 iter,     63472 nodes (gap 6.7%)
+Improved solution               6616 after      72229 iter,    117138 nodes (gap 6.3%)
+Improved solution               6626 after     107975 iter,    175801 nodes (gap 6.1%)
+Improved solution               6697 after     305943 iter,    417840 nodes (gap 5.1%)
+Improved solution               6737 after     329494 iter,    462197 nodes (gap 4.6%)
+
+lp_solve optimization was stopped due to time-out.
+
+Optimal solution                6737 after    4879135 iter,   2615275 nodes (gap 4.6%).
+
+Relative numeric accuracy ||*|| = 5.55112e-017
+
+ MEMO: lp_solve version 5.5.2.5 for 64 bit OS, with 64 bit REAL variables.
+      In the total iteration count 4879135, 243294 (5.0%) were bound flips.
+      There were 1305745 refactorizations, 0 triggered by time and 1 by density.
+       ... on average 3.6 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 1374 NZ entries, 1.0x largest basis.
+      The maximum B&B level was 3860, 0.2x MIP order, 3596 at the optimal solution.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 4.890 seconds, presolve used 0.010 seconds,
+       ... 1799.999 seconds in simplex solver, in total 1804.899 seconds.
+__________________________________________________________________________________________________________________________________________
+changed the weightings of home rinks
+10 mins
+
+Model name:  '24w1gV1.23_5Constraint' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:      888 constraints,    7956 variables,        38556 non-zeros.
+Var-types:      7956 integer,           0 semi-cont.,        7956 SOS.
+Sets:                                   0 GUB,                144 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+Relaxed solution               14660 after       8287 iter is B&B base.
+
+Feasible solution              13551 after       8568 iter,      3861 nodes (gap 7.6%)
+Improved solution              13561 after       9076 iter,      4391 nodes (gap 7.5%)
+
+lp_solve optimization was stopped due to time-out.
+
+Optimal solution               13561 after     453972 iter,    894108 nodes (gap 7.5%).
+
+Relative numeric accuracy ||*|| = 1.11022e-016
+
+ MEMO: lp_solve version 5.5.2.5 for 64 bit OS, with 64 bit REAL variables.
+      In the total iteration count 453972, 8069 (1.8%) were bound flips.
+      There were 445004 refactorizations, 0 triggered by time and 1 by density.
+       ... on average 1.0 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 1421 NZ entries, 1.0x largest basis.
+      The maximum B&B level was 4198, 0.3x MIP order, 4194 at the optimal solution.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 4.873 seconds, presolve used 0.009 seconds,
+       ... 600.000 seconds in simplex solver, in total 604.882 seconds.
+
+__________________________________________________________________________________________________________________________________________
+
+relaxed in tol to 0.1
+Model name:  '24w1gV1.24_5Constraint' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:      888 constraints,    7956 variables,        38556 non-zeros.
+Var-types:      7956 integer,           0 semi-cont.,        7956 SOS.
+Sets:                                   0 GUB,                144 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+Relaxed solution               14660 after       8287 iter is B&B base.
+
+Feasible solution              13551 after       8568 iter,      3861 nodes (gap 7.6%)
+Improved solution              13561 after       9076 iter,      4391 nodes (gap 7.5%)
+
+lp_solve optimization was stopped due to time-out.
+
+Optimal solution               13561 after     456282 iter,    898744 nodes (gap 7.5%).
+
+Relative numeric accuracy ||*|| = 1.11022e-016
+
+ MEMO: lp_solve version 5.5.2.5 for 64 bit OS, with 64 bit REAL variables.
+      In the total iteration count 456282, 8069 (1.8%) were bound flips.
+      There were 447314 refactorizations, 0 triggered by time and 1 by density.
+       ... on average 1.0 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 1421 NZ entries, 1.0x largest basis.
+      The maximum B&B level was 4198, 0.3x MIP order, 4194 at the optimal solution.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 4.784 seconds, presolve used 0.009 seconds,
+       ... 599.999 seconds in simplex solver, in total 604.792 seconds.
+__________________________________________________________________________________________________________________________________________	   
+Constraint 1: 528
+Constraint 2: 144
+Constraint 2: 0
+Constraint 4: 0
+Constraint 5: 30
+
+reasonable solution but still missing some home-away combinations and still not evenly distributed
+
+Model name:  '24w1gV2.02_removedRounds' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:      558 constraints,    4896 variables,         9792 non-zeros.
+Var-types:      4896 integer,           0 semi-cont.,        4896 SOS.
+Sets:                                   0 GUB,                144 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+Relaxed solution               14660 after       5035 iter is B&B base.
+
+Feasible solution              13925 after       5513 iter,      2374 nodes (gap 5.0%)
+Improved solution              14026 after       7307 iter,      5140 nodes (gap 4.3%)
+Improved solution              14036 after       8392 iter,      6159 nodes (gap 4.3%)
+Improved solution              14127 after      63815 iter,     45684 nodes (gap 3.6%)
+Improved solution              14137 after      64858 iter,     46619 nodes (gap 3.6%)
+Improved solution              14147 after     132251 iter,     95992 nodes (gap 3.5%)
+
+lp_solve optimization was stopped due to time-out.
+
+Optimal solution               14147 after    3279519 iter,   6390419 nodes (gap 3.5%).
+
+Relative numeric accuracy ||*|| = 1.11022e-016
+
+ MEMO: lp_solve version 5.5.2.5 for 64 bit OS, with 64 bit REAL variables.
+      In the total iteration count 3279519, 143007 (4.4%) were bound flips.
+      There were 3194122 refactorizations, 0 triggered by time and 0 by density.
+       ... on average 1.0 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 707 NZ entries, 1.0x largest basis.
+      The maximum B&B level was 2375, 0.2x MIP order, 2293 at the optimal solution.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 0.218 seconds, presolve used 0.007 seconds,
+       ... 1799.997 seconds in simplex solver, in total 1800.222 seconds.
+
+__________________________________________________________________________________________________________________________________________
+
+Constraint 1: 528
+Constraint 2: 144
+Constraint 3: 0
+Constraint 4: 0
+Constraint 5: 30
+Constraint 6: 30
+Constraint 7: 30
+Constraint 8: 30
+Constraint 9: 30
+
+Model name:  '24w1gV2.03_removedRounds add const to spread' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:      678 constraints,    4896 variables,        18360 non-zeros.
+Var-types:      4896 integer,           0 semi-cont.,        4896 SOS.
+Sets:                                   0 GUB,                144 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+Relaxed solution               14660 after       5053 iter is B&B base.
+
+Feasible solution              13441 after       5304 iter,      2436 nodes (gap 8.3%)
+Improved solution              13461 after      82952 iter,    157681 nodes (gap 8.2%)
+Improved solution              13562 after    3078335 iter,   3999863 nodes (gap 7.5%)
+
+Optimal solution               13562 after    4147344 iter,   6137560 nodes (gap 7.5%).
+
+Relative numeric accuracy ||*|| = 1.11022e-016
+
+ MEMO: lp_solve version 5.5.2.5 for 64 bit OS, with 64 bit REAL variables.
+      In the total iteration count 4147344, 4868 (0.1%) were bound flips.
+      There were 3067709 refactorizations, 0 triggered by time and 1 by density.
+       ... on average 1.4 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 1146 NZ entries, 1.0x largest basis.
+      The maximum B&B level was 2474, 0.2x MIP order, 2474 at the optimal solution.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 0.295 seconds, presolve used 0.007 seconds,
+       ... 1799.997 seconds in simplex solver, in total 1800.299 seconds.
+__________________________________________________________________________________________________________________________________________
+Constraint 1: 528
+Constraint 2: 144
+Constraint 3: 0
+Constraint 4: 0
+Constraint 5: 30
+Constraint 6: 30
+Constraint 7: 30
+Constraint 8: 0
+Constraint 9: 0
+
+Model name:  '24w1gV2.05_removedRounds add const to spread' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:      618 constraints,    4896 variables,        12444 non-zeros.
+Var-types:      4896 integer,           0 semi-cont.,        4896 SOS.
+Sets:                                   0 GUB,                144 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+Relaxed solution                7260 after       5295 iter is B&B base.
+
+Feasible solution               6675 after       5544 iter,      2103 nodes (gap 8.1%)
+Improved solution               6685 after       6259 iter,      3540 nodes (gap 7.9%)
+Improved solution               6776 after      34091 iter,     32014 nodes (gap 6.7%)
+Improved solution               6786 after      34806 iter,     33451 nodes (gap 6.5%)
+Improved solution               6877 after     674331 iter,    536443 nodes (gap 5.3%)
+Improved solution               6887 after     674342 iter,    536507 nodes (gap 5.1%)
+
+lp_solve optimization was stopped due to time-out.
+
+Optimal solution                6887 after    1873925 iter,   1717851 nodes (gap 5.1%).
+
+Relative numeric accuracy ||*|| = 1.11022e-016
+
+ MEMO: lp_solve version 5.5.2.5 for 64 bit OS, with 64 bit REAL variables.
+      In the total iteration count 1873925, 5063 (0.3%) were bound flips.
+      There were 857907 refactorizations, 0 triggered by time and 0 by density.
+       ... on average 2.2 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 866 NZ entries, 1.0x largest basis.
+      The maximum B&B level was 2135, 0.2x MIP order, 2113 at the optimal solution.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 0.265 seconds, presolve used 0.006 seconds,
+       ... 600.004 seconds in simplex solver, in total 600.275 seconds.
+__________________________________________________________________________________________________________________________________________
+
+Constraint 1: 264
+Constraint 2: 72
+Constraint 3: 0
+Constraint 4: 0
+Constraint 5: 30
+Constraint 6: 30
+Constraint 7: 30
+Constraint 8: 0
+Constraint 9: 0
+
+Model name:  '12w1gV2.06_' - run #1
+Objective:   Maximize(R0)
+
+SUBMITTED
+Model size:      354 constraints,    2448 variables,         6324 non-zeros.
+Var-types:      2448 integer,           0 semi-cont.,        2448 SOS.
+Sets:                                   0 GUB,                 72 SOS.
+
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+
+
+Relaxed solution                7260 after       3785 iter is B&B base.
+
+Feasible solution               4083 after       4066 iter,       619 nodes (gap 43.8%)
+Improved solution               4093 after       4078 iter,       630 nodes (gap 43.6%)
+Improved solution               4103 after       6173 iter,      2093 nodes (gap 43.5%)
+Improved solution               4204 after       8283 iter,      3564 nodes (gap 42.1%)
+Improved solution               4214 after       8295 iter,      3575 nodes (gap 42.0%)
+
+lp_solve optimization was stopped due to time-out.
+
+Optimal solution                4214 after    3820409 iter,   2856233 nodes (gap 42.0%).
+
+Relative numeric accuracy ||*|| = 1.11022e-016
+
+ MEMO: lp_solve version 5.5.2.5 for 64 bit OS, with 64 bit REAL variables.
+      In the total iteration count 3820409, 3533 (0.1%) were bound flips.
+      There were 1427810 refactorizations, 0 triggered by time and 1 by density.
+       ... on average 2.7 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 605 NZ entries, 1.0x largest basis.
+      The maximum B&B level was 673, 0.1x MIP order, 627 at the optimal solution.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 0.109 seconds, presolve used 0.004 seconds,
+       ... 599.998 seconds in simplex solver, in total 600.111 seconds.
+
+	   __________________________________________________________________________________________________________________________________________
+	   
+	   
